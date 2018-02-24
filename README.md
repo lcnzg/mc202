@@ -12,4 +12,4 @@ A estrutura do repositório segue o esquema a seguir:
 
   Além disso, existem os programas e arquivos utilizados no laboratório, com extensão .c / .h / .pdf
 
-OBS.: Os laborátorios 48 à 52 são tarefas extras que não valem nota
+OBS.: Os laborátorios 48 à 52 foram tarefas extras

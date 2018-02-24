@@ -1,4 +1,4 @@
-# mc202
+# MC202 - Estruturas de Dados
 Laboratórios da disciplina MC202, UNICAMP, 2016-2
 
 A estrutura do repositório segue o esquema a seguir:

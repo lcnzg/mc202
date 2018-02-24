@@ -1,6 +1,8 @@
 # MC202 - Estruturas de Dados
 Laboratórios da disciplina MC202, UNICAMP, 2016-2
 
+Professor: Guilherme Pimentel Telles
+
 A estrutura do repositório segue o esquema a seguir:
   Cada laboratório é separado em pastas com sua numeração (ex: lab09)
 
